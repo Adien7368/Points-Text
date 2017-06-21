@@ -1,0 +1,28 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "points-text",
+  "version": "1.0.0",
+  "description": "p5 tweening textp points",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adien7368/Points-Text.git"
+  },
+  "keywords": [
+    "p5",
+    "tweening"
+  ],
+  "author": "avi892nash (Adein7368)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adien7368/Points-Text/issues"
+  },
+  "homepage": "https://github.com/Adien7368/Points-Text#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "nodemon": "^1.11.0",
+    "socket.io": "^2.0.3"
+  }
+}
